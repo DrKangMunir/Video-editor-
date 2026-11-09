@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Body,Inter SemiBold,42,&H00FFFFFF,&H00FFFFFF,&H70141E2A,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,40,40,200,1
+Style: Pantun,Inter SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H70141E2A,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,24,24,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.15,Body,,0,0,0,,{\fad(180,180)}Assalamualaikum\Nwarahmatullahi wabarakatuh
+Dialogue: 0,0:00:08.45,0:00:13.90,Body,,0,0,0,,{\fad(180,180)}Saya akan membaca pantun
+Dialogue: 0,0:00:13.90,0:00:26.20,Body,,0,0,0,,{\fad(180,180)}bertajuk\N{\c&H5FC8F5&}Cintai Bahasa Kebangsaan{\r}
+Dialogue: 0,0:00:26.51,0:00:42.48,Pantun,,0,0,0,,{\fad(180,180)}Pergi ke taman memetik selasih,\NSelasih dipetik di tepi perigi,
+Dialogue: 0,0:00:42.48,0:01:01.90,Pantun,,0,0,0,,{\fad(180,180)}Bahasa kebangsaan warisan kasih,\NGunakan selalu sepenuh hati.
+Dialogue: 0,0:01:02.22,0:01:08.62,Body,,0,0,0,,{\fad(180,180)}{\c&H5FC8F5&}Pengajaran{\r}
+Dialogue: 0,0:01:08.62,0:01:29.62,Body,,0,0,0,,{\fad(180,180)}Kita hendaklah menggunakan\Nbahasa kebangsaan
+Dialogue: 0,0:01:29.62,0:01:42.90,Body,,0,0,0,,{\fad(180,180)}dengan bangga dan\Npenuh rasa cinta
+Dialogue: 0,0:01:42.90,0:01:58.81,Body,,0,0,0,,{\fad(180,180)}supaya bahasa Melayu\Nterus terpelihara
+Dialogue: 0,0:01:58.81,0:02:15.61,Body,,0,0,0,,{\fad(180,180)}dan dihormati oleh\Ngenerasi akan datang.
+Dialogue: 0,0:02:15.96,0:02:18.56,Body,,0,0,0,,{\fad(180,180)}Sekian, terima kasih.
