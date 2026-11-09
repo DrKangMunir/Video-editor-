@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Body,Inter SemiBold,42,&H00FFFFFF,&H00FFFFFF,&H70141E2A,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,40,40,200,1
+Style: Pantun,Inter SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H70141E2A,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,24,24,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:05.15,Body,,0,0,0,,{\fad(180,180)}Assalamualaikum\Nwarahmatullahi wabarakatuh
+Dialogue: 0,0:00:14.00,0:00:21.20,Body,,0,0,0,,{\fad(180,180)}Hari ini saya akan membaca\Npantun empat kerat
+Dialogue: 0,0:00:21.20,0:00:29.40,Body,,0,0,0,,{\fad(180,180)}yang bertajuk\N{\c&H5FC8F5&}Cintailah Bahasa Kebangsaan{\r}
+Dialogue: 0,0:00:29.85,0:00:37.91,Pantun,,0,0,0,,{\fad(180,180)}Burung merpati terbang ke desa,\NHinggap sebentar di pohon jati,
+Dialogue: 0,0:00:37.96,0:00:46.10,Pantun,,0,0,0,,{\fad(180,180)}Bahasa Melayu warisan bangsa,\NMarilah kita santuni dan cintai.
+Dialogue: 0,0:00:47.75,0:00:51.00,Body,,0,0,0,,{\fad(180,180)}{\c&H5FC8F5&}Pengajaran{\r} pantun ini ialah
+Dialogue: 0,0:00:51.00,0:00:55.70,Body,,0,0,0,,{\fad(180,180)}kita hendaklah mencintai,\Nmenghargai dan
+Dialogue: 0,0:00:55.70,0:01:01.60,Body,,0,0,0,,{\fad(180,180)}memartabatkan bahasa Melayu\Nsebagai bahasa kebangsaan
+Dialogue: 0,0:01:01.60,0:01:05.65,Body,,0,0,0,,{\fad(180,180)}kerana bahasa Melayu\Nmerupakan warisan bangsa
+Dialogue: 0,0:01:05.65,0:01:09.05,Body,,0,0,0,,{\fad(180,180)}dan lambang\Nidentiti negara.
+Dialogue: 0,0:01:09.05,0:01:11.95,Body,,0,0,0,,{\fad(180,180)}Kita juga perlu\Nmenggunakannya
+Dialogue: 0,0:01:11.95,0:01:15.70,Body,,0,0,0,,{\fad(180,180)}dengan betul\Ndalam kehidupan seharian.
+Dialogue: 0,0:01:15.70,0:01:17.85,Body,,0,0,0,,{\fad(180,180)}Itu sahaja daripada saya.
+Dialogue: 0,0:01:17.85,0:01:20.10,Body,,0,0,0,,{\fad(180,180)}Sekian, terima kasih.
